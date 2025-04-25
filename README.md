@@ -51,8 +51,8 @@ Built using **Flask**, **MySQL**, and **Bootstrap**, this app offers a clean, re
 ### 💻 Clone the Repository
 
 ```bash
-git clone https://github.com/ikjasrasool/reselling_fullstack_project.git
-cd reselling_fullstack_project
+git clone https://github.com/ikjasrasool/ReSellify.git
+cd ReSellify
 ```
 
 ### 📦 Set Up Environment
