@@ -1,6 +1,6 @@
 
 
-# 🛒 Object Resell App – Used Product Marketplace
+# 🛒 ReSellify - Local Marketplace Platform
 
 A dynamic and user-friendly web platform for buying and selling pre-owned goods. Designed for **students, communities, and general users**, this app makes reselling efficient, secure, and seamless.
 
